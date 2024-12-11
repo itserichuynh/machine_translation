@@ -1,0 +1,205 @@
+1. Tatoeba on its own test set
+
+keep your hands on the wheel, ['keep your hands on the wheel'], laissez les mains sur le volant
+his teacher must be filled with him, ['his teacher should be strict with him'], son professeur devrait etre strict avec lui
+what was you up ?, ['what s kept you ?'], qu est ce qui t a retenu ?
+i don t know who did it, ['i don t know who did it'], je ne sais pas qui l a fait
+i make you nervous don t i ?, ['i make you nervous don t i ?'], je te rends nerveux n est ce pas ?
+i don t have much clue, ['i don t have the slightest clue'], je n en ai pas la moindre idee
+i don t yet know what i m doing, ['i don t know what i m doing yet'], je ne sais pas encore ce que je fais
+will you dance with me ?, ['do you want to dance with me ?'], veux tu danser avec moi ?
+it s not the human size, ['size does not matter'], ce n est pas la taille qui compte
+i ve heard all about you, ['i ve heard all about you'], j ai tout entendu a ton sujet
+the early that hotel is too difficult for me, ['the food at that restaurant is too greasy for me'], le menu de ce restaurant est trop gras pour moi
+he gave us some few drinks, ['he bought us some drinks'], il nous a paye quelques verres
+she intended intended to go shopping, ['she intended to go shopping'], elle avait l intention d aller faire des emplettes
+she ripped her children older as they did things things, ['she altered her old clothes to make them look more fashionable'], elle a raccommode ses vieilles fringues pour qu elles aient l air plus a la mode
+he doesn t speak french but he speaks spanish, ['he doesn t just speak french he speaks spanish as well'], il ne parle pas que francais mais aussi espagnol
+i have no one to kill me, ['i don t have anybody who ll listen to me'], je n ai personne qui m ecoutera
+i could ve been kill, ['i could have been killed'], j aurais pu etre tue
+in far case i m only cold in such small problem, ['then i m afraid we have a bit of a problem'], dans ce cas j ai bien peur qu il y ait un petit probleme
+why don t you start by telling us who went with us ?, ['why don t you start by telling us who went with you ?'], pourquoi ne commencez vous pas par nous dire qui y est alle avec vous ?
+tom is a ambitious isn t he ?, ['tom is an architect right ?'], tom est architecte pas vrai ?
+in a circumstances can can see you, ['in space no one can hear you scream'], dans l espace personne ne peut t entendre crier
+i heard that the the war was eaten the the winter, ['i hear the grass is green even in the winter in england'], j ai entendu dire qu en angleterre l herbe etait verte meme en hiver
+it s cheaper to order things things in the dozen, ['it s cheaper to order things by the dozen'], c est moins cher de commander des choses a la douzaine
+he turned off the edge of his shoulder, ['he turned the table upside down'], il retourna la table sur son plateau
+who goes playing the this tonight ?, ['who s playing hockey tonight ?'], qui joue au hockey ce soir ?
+i don t know how to contact you, ['i don t know how to contact you'], je ne sais pas comment prendre contact avec toi
+the increase of <unk> <unk> numb with, ['the chimney is belching black smoke'], la cheminee crache de la fumee noire
+i hate that, ['i hate that'], je deteste ca
+once a glance he must help up, ['once you have made a promise you should keep it'], une fois une promesse faite il faut la respecter
+when i grow up i d be like you like like you, ['when i grow up i want to be just like you'], quand je serai grande je veux etre exactement comme vous
+that s all you need to know, ['that s all you need to know'], c est tout ce qu il te faut savoir
+it would be great if you could join us for dinner, ['it would be great if you could join us for dinner'], ca serait vraiment bien si vous pouviez vous joindre a nous pour dejeuner
+i tried to warn you, ['i tried to warn you'], j ai essaye de vous prevenir
+you re ambitious, ['you re ambitious'], tu es ambitieux
+a sensible man would not like such a thing, ['a wise man would not say such a thing'], un homme sage ne dirait pas une telle chose
+i don t believe in magic, ['i don t believe in karma'], je ne crois pas au karma
+i received your letter yesterday, ['i got your letter yesterday'], j ai recu ta lettre hier
+you re all crazy, ['you re all crazy'], vous etes tous fous
+i thought you d be taller, ['i thought you d be taller'], je pensais que vous seriez plus grand
+we walked across the pond, ['we walked around the pond'], nous avons marche autour de l etang
+the water was dark and shining stars, ['the water was calm and very blue'], l eau etait calme et tres bleue
+i know that it s highly unlikely that he s ever to help me, ['i know that it is highly unlikely that anyone would be willing to help me'], je sais qu il est hautement improbable que quiconque soit dispose a m aider
+that is the girl you ve to see, ['this is the girl you wanted to see'], c est la fille que tu voulais voir
+may i use the phone ?, ['may i use the phone ?'], puis je utiliser le telephone ?
+is there home home ?, ['anybody home ?'], y a t il quelqu un dans la maison ?
+you are my hero, ['you are my hero'], tu es mon heros
+we re wasting water, ['we re wasting water'], nous sommes en train de gaspiller de l eau
+i love you more than, ['i love you more than anything'], je vous aime plus que tout
+i ran all the train at the station, ['i ran all the way to the station'], je courus tout le chemin jusqu a la gare
+he doesn t hold his sense, ['he doesn t show his true feelings'], il ne montre pas ses veritables sentiments
+i watch television on time time, ['i watch tv now and then'], je regarde la television de temps en temps
+i m not a only child anymore, ['i m not a baby you know !'], je ne suis plus un bebe !
+are you ok ?, ['you all right ?'], ca va bien ?
+the bad <unk> came me my heart, ['the bad smell sickened me'], la mauvaise odeur m a retourne le c ur
+we have many friends, ['we ve got a lot of friends'], nous avons beaucoup d amis
+you re not helping me, ['you re not helping me'], tu ne m aides pas
+he can well well, ['he speaks really well'], il parle vraiment bien
+he breathed deeply, ['he gave a deep sigh'], il soupira profondement
+this book is for you, ['this book is for you'], ce livre est pour toi
+nice nice !, ['have a nice holiday'], bonnes vacances !
+i live in <unk>, ['i live in hyogo'], je vis a hyogo
+could you briefly briefly briefly ?, ['could you please briefly introduce yourself ?'], pourrais tu brievement te presenter ?
+where did you get this ?, ['where did you get it ?'], ou as tu obtenu ceci ?
+the dog arched my hand, ['the dog bit my hand'], le chien mordit ma main
+the manager of the <unk> s was <unk>, ['the criticism of the actor s performance was just'], la critique de la representation de l acteur etait juste
+tom wondered if it was true, ['tom wondered if it was true'], tom s est demande si c etait vrai
+she will him him again, ['she ll love him forever'], elle l aimera pour toujours
+this company is frightening about his carelessness, ['this company is indifferent to the safety of its workers'], cette entreprise est indifferente a la securite de ses employes
+i study french in japanese, ['i study japanese history'], j etudie l histoire japonaise
+i watched the watch tv before my homework before, ['i watched baseball on tv after i finished my homework'], j ai regarde le baseball a la television apres avoir termine mes devoirs
+i blame things, ['i ll handle things'], je gererai les choses
+i m the youngest in the age, ['i m the youngest child'], je suis la plus jeune enfant
+father extended away after breakfast, ['dad stretched after dinner'], papa s est etendu apres le dejeuner
+the defendant was guilty guilty of the pain insanity insanity, ['the defendant was found not guilty by reason of insanity'], l accuse fut prononce non coupable en raison de sa folie
+ants cost him was his his, ['the audience clapped loudly after his speech'], l assistance applaudit bruyamment apres son discours
+you re not late, ['you re not late'], tu n es pas en retard
+i felt like a idiot, ['i felt dumb'], je me suis sentie idiote
+i d like to stay out to stay today today, ['i feel like going out rather than staying at home today'], j aimerais mieux sortir dehors que de rester a la maison aujourd hui
+this box is big, ['this box is light'], cette caisse est legere
+do you remember how we met ?, ['do you remember how we met ?'], te rappelles tu comment nous nous sommes rencontrees ?
+the stock s stock staff staff <unk> signaled its <unk> to a new <unk>, ['the rise in house prices enabled him to sell his house at a big profit'], la hausse des prix de l immobilier lui a permis de vendre sa maison en faisant un gros profit
+many people are upset, ['many people are upset'], de nombreuses personnes sont fachees
+we climbed the the hill, ['we ran down the hill'], nous avons descendu la colline en courant
+they re really <unk>, ['they re really tight'], ils sont vraiment radins
+you re such a liar !, ['you are such a liar !'], tu es un de ces menteurs !
+your cat is overweight, ['your cat is overweight'], ton chat est en surpoids
+the development of the financial easier is greater quicker that it has anything that it it unsaid, ['rather than doing any good the rain did a great deal of harm to the crop'], la pluie a cause de gros degats a la recolte plutot qu elle lui a fait quoi que ce soit de bien
+could you tell me why you like me ?, ['will you tell me why you like her ?'], pourrais tu me dire pourquoi tu l aimes ?
+speak speak so please, ['speak louder please'], parlez plus fort s il vous plait
+you shouldn t be interested in my dog that he does, ['you shouldn t get near my dog while he s eating'], vous ne devriez pas vous approcher de mon chien pendant qu il mange
+i don t write your opinion, ['i m not writing about you'], je n ecris pas a ton sujet
+prices went off, ['prices have gone down'], les prix ont baisse
+i m very impressed, ['i m very poor'], je suis tres pauvre
+i was up to go, ['i made up my mind to go there'], je me decidai a y aller
+the prices connects rising billion altitude of meters meters, ['the milky way consists of about a hundred billion stars'], la voie lactee se compose d environ cent milliards d etoiles
+we re fasting, ['we re taking over'], nous prenons le controle
+you re smarter than me, ['you re smarter than me'], vous etes plus intelligent que moi
+why don t you study french ?, ['why aren t you studying french ?'], pourquoi n etudiez vous pas le francais ?
+we are faced with a era of financial, ['we are faced with a host of problems'], nous sommes confrontes a une foule de problemes
+it s really nice to hear, ['that s really nice to hear'], c est vraiment agreable a entendre
+
+
+2. Tatoeba on wiki test set
+let s <unk>, ['national songs']
+<unk> the <unk> <unk> <unk> <unk> the <unk> destruction of the club, ['retrieved']
+the heavy tunnel of <unk> <unk> the <unk>, ['cartoon influence beginnings of posing']
+let s negotiate, ['res lett']
+darwin <unk>, ['subfeatures']
+dig the deep steep flag, ['doge s palace built']
+ask a lot, ['and not much !']
+<unk> <unk> <unk> and <unk> <unk>, ['grants fellowships literary awards prizes']
+despite his sheep were <unk>, ['taiwan and its surrounding islands']
+<unk> <unk> <unk> to <unk>, ['morison was born in hammersmith in']
+he has no children to for the s strength, ['there were no children of either marriage']
+the smells <unk>, ['ancient history']
+they children kids, ['they had the following children']
+<unk> <unk> in the tenth, ['christy turlington']
+<unk> <unk> <unk>, ['sifakis stewart']
+your english and moves and, ['public health and prevention strategies']
+sleep, ['effects of dyes pigments']
+i m interfering, ['coach manager']
+some choices are, ['aba commission of enquiry']
+start with letters with the letters, ['title release date publisher notes ref']
+edison <unk> <unk> <unk> <unk>, ['milking parlour dairy farming wastes']
+let s negotiate, ['it consisted of']
+defend the remote remote, ['calihan hall records']
+let s <unk>, ['junior officers']
+let s negotiate, ['reminiscences']
+<unk> <unk> tribes <unk> threatened, ['historical population census pop est']
+we were in all all week, ['we were in the studio all this week']
+come, ['personhood']
+this vending package was bombed in the steep n, ['december human rights watch report']
+let s <unk>, ['capitalnewyork com']
+<unk> <unk> arose into <unk>, ['hewa bora airways flight']
+in <unk> soared, ['rugby union']
+<unk> <unk> <unk> <unk>, ['isbn green stanley march']
+he s unconscious, ['he died in']
+let s act, ['final glory']
+<unk> <unk> <unk> drained, ['isbn isbn barber j d']
+he was opposed to <unk>, ['in she was reduced to a gun ship']
+there is thirty equal, ['california state university']
+charity percent shot, ['self care requisites']
+first <unk> <unk> <unk> up <unk> <unk>, ['cypriot first division cypriot super cup']
+<unk> <unk> <unk> unharmed, ['introduction to modern set theory']
+let s <unk>, ['kevin healey autism activist']
+let s <unk>, ['ships hit by u']
+the leaves turns rising, ['tsutenkaku south side']
+<unk> <unk> <unk>, ['contemporary diplomatic passports']
+divide <unk>, ['westhafen canal']
+part of the <unk> <unk> is is pointless, ['animal personhood']
+turn it up, ['accessed november']
+the streets were were <unk>, ['the eight members were']
+let s <unk>, ['lifetime oza']
+i don t even either more consequences, ['nor do i know russian hackers']
+our yacht club is growing, ['virginia house of delegates']
+he writes a a <unk> attitude your fate, ['he wrote one hymn lift up your hearts !']
+space international <unk> <unk> <unk> <unk> in the <unk> in the <unk> <unk> deficit deficit deficit deficit will be <unk> to the <unk> to, ['chumlee russell the history channel']
+only <unk> <unk> <unk> <unk>, ['king of dai zhao jia']
+<unk> is <unk> to the end, ['martinsburg july']
+let s <unk>, ['convoys escorted']
+twenty twenty few doctor, ['education and career']
+<unk> <unk> <unk>, ['further structural imaging evidence']
+every lesson is working, ['each game costs']
+he he to the in the, ['in he defended the breisgau']
+<unk> quickly up <unk>, ['signing to lab records']
+the building building was covered in <unk>, ['destroyed building was restored in']
+there is fifty, ['erdan island']
+go in the market, ['retrieved july']
+<unk> <unk> <unk>, ['black lives matter']
+let s <unk>, ['energy resources mines']
+he s a controversial talker, ['it is a planar molecule']
+let s negotiate, ['wega horse']
+barack <unk> is growing, ['dof laboratory']
+<unk> <unk> arose into <unk> <unk>, ['david william murray rd earl of mansfield']
+let s negotiate, ['isbn']
+mary was born in the, ['maria was born in evora on april']
+<unk> is born in the <unk>, ['webb was born on july in monmouth']
+for a flame, ['military service']
+<unk> <unk> <unk> into a circle, ['derek barbolla founded cercle in']
+his neighbors are, ['her instructions were']
+i m not not, ['historically i am nonpartisan']
+he is buried in the city of town, ['he is buried in the same city']
+rumors of the loans flew to the steep tower, ['modern view']
+get it, ['season']
+let s negotiate, ['retrieved january']
+his <unk> <unk> <unk> <unk>, ['her main mast is metres ft in']
+divide a parts, ['rugby union career']
+cool is, ['chemical sciences']
+good <unk> has issued the nobel, ['ideation in corporate governance']
+let s be, ['boys singles']
+<unk> s leaves billowed <unk>, ['har built rescue']
+let s negotiate, ['invasive species']
+let s negotiate, ['contributor']
+<unk> <unk> up in the days, ['aged matured for at least days']
+let s <unk>, ['volans kevin n d contradictory']
+let s showing the new tv, ['tisha at television film']
+let s establish <unk> <unk>, ['sound installation by dipna horra']
+<unk> <unk> <unk> to <unk> <unk>, ['nakalembe grew up in kampala uganda']
+despite the <unk> <unk> the magnitude bearing the spine, ['mithrakanth of india won with']
+almost war war and stopped, ['world war ii and later']
+the <unk> <unk> <unk> soared, ['the main dancer of the evil boys']
+what is <unk> ?, ['what is queeruption ?']
+clean your tv, ['tv series']
