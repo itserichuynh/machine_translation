@@ -14,9 +14,18 @@ Understanding which types of data best support generalization will inform the de
 
 machine_translation<br />
 |- models<br />
+|&emsp;|- tatoeba<br />
+|&emsp;│&emsp;|- mt_tatoeba.pt<br />
+|&emsp;|- wiki<br />
+|&emsp;│&emsp;|- mt_wiki.pt<br />
 |- notebooks<br />
+|&emsp;|- mt_tatoeba-torchtext.ipynb<br />
+|&emsp;|- mt_wiki-torchtext.ipynb<br />
 |- data<br />
 |&emsp;|- wiki<br />
 |&emsp;│&emsp;|- eng-fra.txt<br />
 |&emsp;|- tatoeba<br />
 |&emsp;│&emsp;|- eng-fra.txt<br />
+|- results<br />
+|&emsp;|- tatoeba_results.txt<br />
+|&emsp;|- wiki_results.txt<br />
